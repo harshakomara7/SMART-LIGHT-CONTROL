@@ -24,3 +24,7 @@ Using Tinkercad Circuits as the simulation platform provides a significant advan
 This system can serve as a foundational prototype for a wide range of home automation or smart device applications. The current version can be easily expanded to include multiple LEDs, sensors, or other actuators. In a real-world scenario, the serial monitor would be replaced by an actual mobile application, developed using platforms like MIT App Inventor or Blynk, and communication would be handled through a Bluetooth module such as the HC-05. This provides a clear path for scaling the project from simulation to reality.
 
 In conclusion, this project effectively simulates a basic yet meaningful IoT application using Arduino and a mobile-like control interface. It allows users to understand and experience how embedded systems respond to external commands, all within a virtual environment. This simulation not only introduces practical programming and circuit-building skills but also encourages creative thinking in how such systems can be applied in everyday life. It’s an excellent entry point for students, hobbyists, or developers who are beginning their journey into the world of interactive electronics and remote device control.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/73ac944d-58b2-47fb-b687-e51b801c3778)
