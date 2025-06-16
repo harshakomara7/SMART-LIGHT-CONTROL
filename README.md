@@ -8,10 +8,12 @@ INTERN ID : CT04DF2153
 
 DOMAIN : INTERNET OF THINGS
 
+DURATION : 4 WEEKS
+
 MENTOR : NEELA SANTOSH
 
 
-## This project focuses on developing a system to control an LED light using an Arduino microcontroller, with commands issued through a mobile app interface. Due to the absence of physical hardware, the entire setup is implemented virtually using the Tinkercad Circuits platform. The goal is to simulate a real-world Internet of Things (IoT) scenario where a user can remotely control electronic devices using simple and intuitive commands. In this case, the device under control is a basic LED, serving as a practical representation of any controllable electronic system.
+This project focuses on developing a system to control an LED light using an Arduino microcontroller, with commands issued through a mobile app interface. Due to the absence of physical hardware, the entire setup is implemented virtually using the Tinkercad Circuits platform. The goal is to simulate a real-world Internet of Things (IoT) scenario where a user can remotely control electronic devices using simple and intuitive commands. In this case, the device under control is a basic LED, serving as a practical representation of any controllable electronic system.
 
 The core idea behind the project is to demonstrate the integration between a microcontroller and a user interface, typically provided by a mobile application. Although actual Bluetooth modules and mobile apps cannot be directly simulated within Tinkercad, the platform provides an effective workaround by allowing command input through a serial monitor. This method successfully emulates the communication that would take place between a mobile device and the microcontroller via Bluetooth. The user can enter text-based commands such as "ON" or "OFF" in the serial monitor, which are then read and interpreted by the Arduino in real-time.
 
